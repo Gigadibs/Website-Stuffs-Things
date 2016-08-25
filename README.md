@@ -1,14 +1,17 @@
 # Website-Stuffs-Things
-Learning and Organizing
+
+**Goal:** finish a website within the next year and a half.
+
+Organizing
 -----------------------
 
-**Checklist:**
+**Languages:**
 - Git,
 - JS,
 - HTML,
 - CSS
 
-**Tools:**
+**Learning Resources:**
 - GitHub (Git + everything),
 - Khan Academy (JS + HTML),
 - Code Academy,
@@ -16,6 +19,6 @@ Learning and Organizing
 - Books,
 - MOOCs
 
-**Specific things:**
+**Specific Things:**
 - tagging system for images/items,
 - translating pages (low priority)
