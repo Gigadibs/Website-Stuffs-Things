@@ -22,3 +22,14 @@ Organizing
 **Specific Things:**
 - tagging system for images/items,
 - translating pages (low priority)
+
+**Websites:**
+- danfessler.com
+- logantannerart.com
+- herculeanpixel.com
+- robalexander.com
+- johnavon.com
+- glauberkotaki.com
+- retinaleclipse.com
+- vivahappiness.co.uk
+- www.thug-inc.com
