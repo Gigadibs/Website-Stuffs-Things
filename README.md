@@ -1,22 +1,21 @@
 # Website-Stuffs-Things
-Checklist-blackboard combo.
+Learning and Organizing
+-----------------------
 
-Self-explanatory.
+**Checklist:**
+- Git,
+- JS,
+- HTML,
+- CSS
 
-Checklist:
-Git,
-JS,
-HTML,
-CSS
+**Tools:**
+- GitHub (Git + everything),
+- Khan Academy (JS + HTML),
+- Code Academy,
+- YouTube tutorials,
+- Books,
+- MOOCs
 
-Tools I like or will look into:
-GitHub (Git + everything),
-Khan Academy (JS + HTML),
-Code Academy,
-YouTube tutorials,
-Books,
-MOOCs
-
-Specific things to learn eventually (not much):
-tagging system for images/items,
-translating pages (low priority)
+**Specific things:**
+- tagging system for images/items,
+- translating pages (low priority)
