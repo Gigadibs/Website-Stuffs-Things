@@ -24,12 +24,12 @@ Organizing
 - translating pages (low priority)
 
 **Websites:**
-- danfessler.com
-- logantannerart.com
-- herculeanpixel.com
-- robalexander.com
-- johnavon.com
-- glauberkotaki.com
-- retinaleclipse.com
-- vivahappiness.co.uk
+- www.danfessler.com
+- www.logantannerart.com
+- www.herculeanpixel.com
+- www.robalexander.com
+- www.johnavon.com
+- www.glauberkotaki.com
+- www.retinaleclipse.com
+- www.vivahappiness.co.uk
 - www.thug-inc.com
