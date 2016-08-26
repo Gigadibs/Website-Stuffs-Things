@@ -4,9 +4,10 @@
 
 Learned Today
 -----------
-8/25/2016 (KA): 
+8/25/2016 (KA + Git): 
 - Animating in JS by defining variables and then making equations that change them within draw function
 - Shortcutting math ops with "var what= number" and "var ++" for "var += 1" 
+- *Italics* and [hyperlinking](http://pixeljoint.com/p/43158.htm) in Markdown
 
 Organizing
 -----------------------
