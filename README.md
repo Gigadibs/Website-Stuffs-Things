@@ -2,15 +2,16 @@
 
 **Goal:** finish a website within the next year and a half.
 
-Learned Today
------------
-8/25/2016 (KA): 
-- Animating in JS by defining variables and then making equations that change them within draw function
-- Shortcutting math ops with "var what= number" and "var ++" for "var += 1" 
+# Learned Today
+**8/25/2016** (KA + Git): 
 
-Organizing
------------------------
+1. Animating in JS by defining variables and then making equations that change them within draw function
+2. Shortcutting math ops
+  * "var what= number"
+  * "var ++" for "var += 1" 
+3. *Italics* and [hyperlinking](http://pixeljoint.com/p/43158.htm) in Markdown, and everything else [in here](https://guides.github.com/features/mastering-markdown/)
 
+# Organizing
 **Languages:**
 - Git,
 - JS,
