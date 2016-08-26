@@ -2,6 +2,12 @@
 
 **Goal:** finish a website within the next year and a half.
 
+Learned Today
+-----------
+8/25/2016 (KA): 
+- Animating in JS by defining vaariables and then making equations that change them within draw function
+- Shortcutting math ops with var what= number and var ++ for var += 1 
+
 Organizing
 -----------------------
 
