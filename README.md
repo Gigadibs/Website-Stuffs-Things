@@ -14,7 +14,7 @@
 **2016/11/22** (Git):
 
 1. Nothing; brief review of Markdown.
-![Picture](https://drive.google.com/file/d/1lFuv_8Hrnf4eptKDF1Xrjq9cG6cnebK-7w/view)
+![Picture](https://i.ytimg.com/vi/p4Jj9QZFJvw/hqdefault.jpg)
 
 # Organizing
 **Languages:**
