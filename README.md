@@ -13,8 +13,10 @@
 
 **2016/11/22** (Git):
 
-1. Nothing; brief review of Markdown.
 ![Picture](https://i.ytimg.com/vi/p4Jj9QZFJvw/hqdefault.jpg)
+
+1. Nothing; brief review of Markdown.
+
 
 # Organizing
 **Languages:**
