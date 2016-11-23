@@ -11,6 +11,13 @@
   * "var ++" for "var += 1" 
 3. *Italics* and [hyperlinking](http://pixeljoint.com/p/43158.htm) in Markdown, and everything else [in here](https://guides.github.com/features/mastering-markdown/)
 
+**2016/11/22** (Git):
+
+![Picture](https://i.ytimg.com/vi/p4Jj9QZFJvw/hqdefault.jpg)
+
+1. Nothing; brief review of Markdown.
+
+
 # Organizing
 **Languages:**
 - Git,
