@@ -1,8 +1,8 @@
 # Website-Stuffs-Things
 
-**Goal:** finish a website within the next year and a half.
+**Goal:** finish a website within the next year and a half
 
-# Learned Today
+# Learned or Done Today
 **8/25/2016** (KA + Git): 
 
 1. Animating in JS by defining variables and then making equations that change them within draw function
@@ -15,7 +15,13 @@
 
 ![Picture](https://i.ytimg.com/vi/p4Jj9QZFJvw/hqdefault.jpg)
 
-1. Nothing; brief review of Markdown.
+1. Nothing; brief review of Markdown
+
+**2016/11/24** (Git + Codecademy):
+
+![Turkey](http://yourshot.nationalgeographic.com/u/ss/fQYSUbVfts-T7pS2VP2wnKyN8wxywmXtY0-FwsgxpCEXcKKydkUzr_hmt6USsfyl-p-6Ix7We7bAiAJkPpoQ/)
+
+1. Starting a page with <!DOCTYPE html>
 
 
 # Organizing
