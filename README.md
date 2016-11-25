@@ -21,7 +21,7 @@
 
 ![Turkey](http://yourshot.nationalgeographic.com/u/ss/fQYSUbVfts-T7pS2VP2wnKyN8wxywmXtY0-FwsgxpCEXcKKydkUzr_hmt6USsfyl-p-6Ix7We7bAiAJkPpoQ/)
 
-1. Starting a page with <!DOCTYPE html>
+1. Starting a page with <!DOCTYPE html>; found [this basics page](http://www.2createawebsite.com/build/build-html-website.html) to look at tomorrow
 
 
 # Organizing
